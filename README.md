@@ -20,4 +20,6 @@ Um arquivo em formato 'xlsx' (Excel) foi gerado como backup destas informações
 
 Feito isso, foi possível montar um mapa de densidade, utilizando a biblioteca plotly.
 
-Esya gráfico também está disponível para download neste respositório através de um arquivo no formato 'html'
+Este gráfico também está disponível para download neste respositório através de um arquivo no formato 'html'
+
+Durante o projeto, são feitas algumas análises com o intuito de fazer alguns rankeamentos como, por exemplo, empresas com maior contratações no programa, agrupadas por estado. Outro exemplo de análise é sobre os agentes financeiros com maior atuação nas contratações.
